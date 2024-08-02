@@ -1,0 +1,186 @@
+{
+  "Header": {
+    "title": "We Transform Your Online Presence.",
+    "paragraph": "we believe in the power of digital metamorphosis. Our mission is to revolutionize your brand’s virtual identity, breathing life into pixels and code. Whether it’s a sleek website, an engaging app, or an immersive user experience, we’re here to transform your online landscape. With creativity as our compass and innovation as our fuel, we navigate the ever-evolving web, ensuring your presence stands out in the vast digital ocean."
+  },
+  "About": {
+    "paragraph": "At We Transform Your Online Presence, we’re more than just a digital agency; we’re your partners in growth. Our journey began with a passion for innovation and a commitment to redefine the digital landscape. With a team of creative visionaries, tech enthusiasts, and strategic thinkers, we’ve woven success stories for businesses across industries.What sets us apart? It’s our unwavering dedication to excellence. From crafting pixel-perfect designs to optimizing user experiences, we thrive on turning ideas into impactful realities. Whether you’re a startup dreaming big or an established brand seeking reinvention, we’re here to elevate your online presence.",
+    "Why": [
+      "Expert Developers",
+      "User-Centric Design",
+      "Responsive Layouts",
+      "Timely Delivery"
+    ],
+    "Why2": [
+      "Quality Assurance",
+      "Innovative Solutions",
+      "Customizable Services",
+      "Exceptional Support"
+    ]
+  },
+  "Gallery": [
+  {
+    "title": "Innovative Web Solutions",
+    "largeImage": "img/portfolio/01-large.jpg",
+    "smallImage": "img/portfolio/01-small.jpg"
+  },
+  {
+    "title": "Creative Design Projects",
+    "largeImage": "img/portfolio/02-large.jpg",
+    "smallImage": "img/portfolio/02-small.jpg"
+  },
+  {
+    "title": "SEO Success Stories",
+    "largeImage": "img/portfolio/03-large.jpg",
+    "smallImage": "img/portfolio/03-small.jpg"
+  },
+  {
+    "title": "Mobile App Innovations",
+    "largeImage": "img/portfolio/04-large.jpg",
+    "smallImage": "img/portfolio/04-small.jpg"
+  },
+  {
+    "title": "Cloud Service Implementations",
+    "largeImage": "img/portfolio/05-large.jpg",
+    "smallImage": "img/portfolio/05-small.jpg"
+  },
+  {
+    "title": "Cybersecurity Solutions",
+    "largeImage": "img/portfolio/06-large.jpg",
+    "smallImage": "img/portfolio/06-small.jpg"
+  },
+  {
+    "title": "E-commerce Platforms",
+    "largeImage": "img/portfolio/07-large.jpg",
+    "smallImage": "img/portfolio/07-small.jpg"
+  },
+  {
+    "title": "Branding and Identity",
+    "largeImage": "img/portfolio/08-large.jpg",
+    "smallImage": "img/portfolio/08-small.jpg"
+  },
+  {
+    "title": "Custom Development Projects",
+    "largeImage": "img/portfolio/09-large.jpg",
+    "smallImage": "img/portfolio/09-small.jpg"
+  }
+],
+ "Services": [
+  {
+    "icon": "fa fa-code",
+    "name": "Web Development",
+    "text": "We provide comprehensive web development services, including custom website design, e-commerce solutions, and content management systems to meet your business needs."
+  },
+  {
+    "icon": "fa fa-paint-brush",
+    "name": "Graphic Design",
+    "text": "Our graphic design services include logo design, branding, and marketing materials to help your business stand out visually."
+  },
+  {
+    "icon": "fa fa-search",
+    "name": "SEO Optimization",
+    "text": "Improve your website's visibility on search engines with our SEO optimization services, including keyword research, on-page optimization, and link building."
+  },
+  {
+    "icon": "fa fa-mobile",
+    "name": "Mobile App Development",
+    "text": "We develop user-friendly mobile applications for both iOS and Android platforms, ensuring a seamless experience for your customers."
+  },
+  {
+    "icon": "fa fa-cloud",
+    "name": "Cloud Services",
+    "text": "Our cloud services include cloud hosting, data storage, and backup solutions to ensure your business data is secure and accessible."
+  },
+  {
+    "icon": "fa fa-shield",
+    "name": "Cybersecurity",
+    "text": "Protect your business from cyber threats with our cybersecurity services, including vulnerability assessments, threat monitoring, and incident response."
+  }
+],
+
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "431136 Maharashtra, Chhatrapati Sambhajinagar ",
+    "phone": "+91 907 536 6688",
+    "email": "shridhar@websource.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+"Features": [
+  {
+    "icon": "fa fa-comments-o",
+    "title": "Automated Candidate Sourcing",
+    "text": "Utilizes AI to automatically source and match high-quality candidate profiles with job requirements, saving recruiters time and effort."
+  },
+  {
+    "icon": "fa fa-bullhorn",
+    "title": "Diverse Talent Pool",
+    "text": "Ensures a diverse and well-represented pipeline of candidates, helping companies meet their diversity and inclusion goals."
+  },
+  {
+    "icon": "fa fa-group",
+    "title": "Seamless Integration",
+    "text": "Easily integrates with existing ATS (Applicant Tracking Systems) and HR tools, providing a smooth and efficient workflow."
+  },
+  {
+    "icon": "fa fa-magic",
+    "title": "Advanced Analytics",
+    "text": "Offers detailed analytics and insights on recruitment processes, helping companies make data-driven hiring decisions."
+  }
+]
+
+}
